@@ -27,4 +27,3 @@ chmod +x shaur
 
 Edit these variables at the top of the script:
 - `BUILD_DIR`: Path to your AUR repositories
-- `USE_COLORS`: Enable/disable color output
